@@ -12,3 +12,52 @@
     margin: 1rem 0;
   }
 }
+
+//creativamind css
+
+.sidebar-sticky {
+  padding: 0 !important;
+}
+
+img.avatar {
+  width: 256px !important;
+  height: auto !important;
+}
+
+.avatar {
+  border-radius: 0 !important
+}
+
+h2.h1 {
+  font-size: 16px;
+  font-family: Verdana, sans-serif;
+  font-weight:100;
+  padding-bottom: 50px !important;
+}
+
+.navbar>.content::before {
+  box-shadow: none;
+}
+
+// .sidebar-about>a.sidebar-title::after {
+//   border-bottom: 0px !important;
+// }
+
+// a#_drawer--opened, a.sidebar-nav-item {
+//   font-family: Verdana;
+//   font-size: 16px;
+//   /* font-weight: 200; */
+// }
+
+// .sidebar-sticky {
+//   opacity: 0 !important;
+// }
+
+// header #_sidebar.sidebar {
+//   transform: translate(0px, 0px) !important;
+// }
+
+.content {
+  padding: 5em 1em 10em;
+}
+
