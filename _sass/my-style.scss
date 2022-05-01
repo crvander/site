@@ -48,3 +48,11 @@ main#_main {
 //   font-size: 16px;
 // }
 
+div.sidebar-about p {
+  text-align: right;
+}
+
+.sidebar-about>a.sidebar-title::after {
+  display: none;
+}
+
